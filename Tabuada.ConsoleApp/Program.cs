@@ -11,8 +11,8 @@ namespace Tabuada.ConsoleApp
 
             for (int i = 1; i <= 10; i++)
             {
-                int soma = i * n;
-                Console.WriteLine(i+" x "+n+" = "+soma);
+                int tabuada = i * n;
+                Console.WriteLine(i+" x "+n+" = "+tabuada);
             }
         }
     }
