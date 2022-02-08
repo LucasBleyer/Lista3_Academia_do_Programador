@@ -8,7 +8,7 @@ namespace MenorMaiorAltura.ConsoleApp
         {
             double[] alturas = new double[3];
             double maior = 0;
-            double menor = 0;
+            double menor = 99999999;
 
             for (int i = 0; i < alturas.Length; i++)
             {
