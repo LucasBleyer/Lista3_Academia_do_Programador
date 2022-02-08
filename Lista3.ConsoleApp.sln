@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impares100To200.ConsoleApp"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaMultiplosDe3.ConsoleApp", "SomaMultiplosDe3.ConsoleApp\SomaMultiplosDe3.ConsoleApp.csproj", "{3852DD7A-34CE-4F30-B8A6-F0D8C699D567}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuada.ConsoleApp", "Tabuada.ConsoleApp\Tabuada.ConsoleApp.csproj", "{92B15494-F51C-4D77-AA01-5FB17A4DABE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3852DD7A-34CE-4F30-B8A6-F0D8C699D567}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3852DD7A-34CE-4F30-B8A6-F0D8C699D567}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3852DD7A-34CE-4F30-B8A6-F0D8C699D567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B15494-F51C-4D77-AA01-5FB17A4DABE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B15494-F51C-4D77-AA01-5FB17A4DABE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B15494-F51C-4D77-AA01-5FB17A4DABE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B15494-F51C-4D77-AA01-5FB17A4DABE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
