@@ -13,8 +13,8 @@ b. A maior altura do grupo;
 Exercício 2:
 • Escrever um algoritmo que gera e escreve os números ímpares entre 100
 e 200.
-Exercício 3:
 
+Exercício 3:
 • Desenvolver um algoritmo que efetue a soma de todos os números
 ímpares que são múltiplos de três e que se encontram no conjunto dos
 números de 1 até 500.
