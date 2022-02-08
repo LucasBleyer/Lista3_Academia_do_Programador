@@ -1,9 +1,4 @@
-﻿//Exercício 5:
-//• Escreva um algoritmo que leia um valor inicial A e imprima a sequência de
-//valores do cálculo de A! e o seu resultado.
-//Ex: 5! = 5 X 4 X 3 X 2 X 1 = 120
-//• Pesquise sobre “fatorial”
-using System;
+﻿using System;
 
 namespace Fatorial.ConsoleApp
 {
@@ -11,7 +6,7 @@ namespace Fatorial.ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.Write("Quer saber o fatorial de qual numero ?");
+            Console.Write("Digite um número a ser calculado no fatorial: ");
             int a = Convert.ToInt32(Console.ReadLine());
 
             int fat = 1;
