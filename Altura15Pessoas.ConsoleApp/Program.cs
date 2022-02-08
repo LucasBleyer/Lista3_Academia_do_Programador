@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Altura15Pessoas.ConsoleApp
+namespace MenorMaiorAltura.ConsoleApp
 {
     internal class Program
     {
