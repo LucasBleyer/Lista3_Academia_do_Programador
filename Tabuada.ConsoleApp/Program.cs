@@ -14,6 +14,7 @@ namespace Tabuada.ConsoleApp
                 int tabuada = i * n;
                 Console.WriteLine(i+" x "+n+" = "+tabuada);
             }
+            Console.ReadLine();
         }
     }
 }

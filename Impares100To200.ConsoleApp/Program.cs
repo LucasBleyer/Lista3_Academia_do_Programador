@@ -10,6 +10,7 @@ namespace Impares100To200.ConsoleApp
             {
                 Console.WriteLine(i);
             }
+            Console.ReadLine();
         }
     }
 }
