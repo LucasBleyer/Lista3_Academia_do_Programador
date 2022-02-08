@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altura15Pessoas.ConsoleApp", "Altura15Pessoas.ConsoleApp\Altura15Pessoas.ConsoleApp.csproj", "{E7F8BB71-F53F-44E0-AFCA-E219E2A420B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenorMaiorAltura.ConsoleApp", "Altura15Pessoas.ConsoleApp\MenorMaiorAltura.ConsoleApp.csproj", "{E7F8BB71-F53F-44E0-AFCA-E219E2A420B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
