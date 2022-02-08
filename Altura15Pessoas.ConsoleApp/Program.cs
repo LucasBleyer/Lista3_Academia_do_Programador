@@ -26,6 +26,7 @@ namespace MenorMaiorAltura.ConsoleApp
             }
             Console.WriteLine("A maior altura é: "+maior);
             Console.WriteLine("A menor altura é: "+menor);
+            Console.ReadLine();
         }
     }
 }
