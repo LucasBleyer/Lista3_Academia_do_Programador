@@ -6,7 +6,7 @@ namespace Tabuada.ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.Write("Digite um número para Tabuada: ");
+            Console.Write("Digite um número de 0 a 10 para Tabuada: ");
             int n = Convert.ToInt32(Console.ReadLine());
 
             for (int i = 1; i <= 10; i++)
