@@ -1,4 +1,4 @@
-# Lista3_Academia_do_Programador 
+# Lista 3 Academia do Programador 
 Repositório criado para exercícios da lista3 em C# da Academia do Programador
 
 Lista de Exercícios de Estruturas de Repetição e Arrays
